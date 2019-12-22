@@ -24,7 +24,7 @@ public class BacktrackingSudokuSolver implements SudokuSolver {
        fillBoard(inBoard);
     }
     /**
-     * Sudoku <b>board</b>.Filling board with numbers.
+     * Sudoku <b>board</b>.Filling sudoku board with numbers.
      * @param inBoard sudoku board.
      * @return boolean value.
      */
