@@ -23,7 +23,6 @@ public class SudokuTest {
      SudokuBoard sudoku = new SudokuBoard();
      SudokuSolver solver = new BacktrackingSudokuSolver();
      solver.solve(sudoku);
-//sudoku was solved
 	 
      }
 }
